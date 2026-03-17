@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: MYVIZHI S
+* **Register Number**: 212224040209
+* **Date of Submission**:17.03.2026
 
 ---
 
@@ -84,11 +84,11 @@ Test the database server by connecting to it locally or remotely and performing 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. I logged in to the **AWS Management Console** and launched an **EC2 instance** using Amazon Linux 2.
+2. I configured the **security group** to allow **SSH (port 22)** and **database port (3306/5432)** access.
+3. I connected to the EC2 instance using **SSH** from my local machine.
+4. I installed a **database server (MySQL/MariaDB/PostgreSQL)** and started the service.
+5. I created a **sample database, table, inserted records**, and tested the database using **SQL queries**.
 
 ---
 
@@ -96,22 +96,23 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+<img width="1919" height="1139" alt="Screenshot 2026-03-15 134924" src="https://github.com/user-attachments/assets/fc732f5c-13be-4bcc-afc6-4674f5c420f5" />
 
 ---
 
 ### Screenshot 2: Database Service Running
+<img width="1918" height="1135" alt="Screenshot 2026-03-15 140034" src="https://github.com/user-attachments/assets/568fb5f5-b386-4cbf-8c6d-8df5ff267609" />
 
-(Insert Screenshot Here)
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+<img width="1919" height="1085" alt="Screenshot 2026-03-15 140612" src="https://github.com/user-attachments/assets/2b7a8d88-460a-49ac-8b8f-e236fa22c0ea" />
+
 
 ---
 
 ## Result
 
-This experiment demonstrated how to build a database server in AWS using an EC2 instance. By installing and configuring a DBMS, creating a sample database, and testing connectivity, the fundamentals of hosting and managing a cloud-based database server were underst
+This experiment demonstrated how to build a database server in AWS using an EC2 instance. By installing and configuring a DBMS, creating a sample database, and testing connectivity, the fundamentals of hosting and managing a cloud-based database server were understand.
